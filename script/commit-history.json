@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "04030e62d2e516f435899166a0d98c38de29eb04",
     "author": "ArielFlowers",
     "commit": {
       "date": "2026-02-26T21:31:42.000Z",
       "message": "primer commit",
-      "url": "https://github.com/ArielFlowers/sumador/commit/HEAD"
+      "url": "https://github.com/ArielFlowers/sumador/commit/04030e62d2e516f435899166a0d98c38de29eb04"
     },
     "stats": {
       "total": 2,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ArielFlowers",
+    "commit": {
+      "date": "2026-02-26T21:50:05.000Z",
+      "message": "funcion multiplicacion agregada",
+      "url": "https://github.com/ArielFlowers/sumador/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 10,
+      "deletions": 4,
+      "date": "2026-02-26"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
