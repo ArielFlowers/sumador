@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "ArielFlowers",
+    "commit": {
+      "date": "2026-02-26T21:31:42.000Z",
+      "message": "primer commit",
+      "url": "https://github.com/ArielFlowers/sumador/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
+      "date": "2026-02-26"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
